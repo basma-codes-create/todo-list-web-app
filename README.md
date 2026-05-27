@@ -1,2 +1,18 @@
-# todo-list-web-app
-Interactive Todo List Web App built with HTML, CSS, and JavaScript featuring task management and local storage support.
+# Todo List Web App
+
+An interactive and responsive Todo List web application built using HTML, CSS, and JavaScript.
+
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Remove tasks
+- Display remaining tasks counter
+- Save tasks using Local Storage
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Purpose
+This project was created to practice front-end web development and improve JavaScript skills by building a functional task management application.
